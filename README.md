@@ -31,6 +31,7 @@ Some useful resource for NLP
 
 ### Event
 + [Integrated Crisis Early Warning System (ICEWS) Dataverse](https://dataverse.harvard.edu/dataverse/icews)
++ [GDELT](https://www.gdeltproject.org/data.html#rawdatafiles)
 
 ## papers
 
