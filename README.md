@@ -29,6 +29,9 @@ Some useful resource for NLP
 + [Weibo dataset and two Twitter datasets](https://github.com/chunyuanY/RumorDetection)
 + [虚假新闻检测数据集](https://blog.csdn.net/Totoro1745/article/details/84678858)
 
+### Event
++ [Integrated Crisis Early Warning System (ICEWS) Dataverse](https://dataverse.harvard.edu/dataverse/icews)
+
 ## papers
 
 + [NLP-journey](https://github.com/msgi/nlp-journey)
