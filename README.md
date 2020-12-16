@@ -25,6 +25,7 @@ Some useful resource for NLP
 + [fakenewschallenge](http://www.fakenewschallenge.org/)
 + [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus)
 + [Chinese_Rumor_Dataset](https://github.com/thunlp/Chinese_Rumor_Dataset)
++ [Weibo dataset and two Twitter datasets](https://github.com/chunyuanY/RumorDetection)
 + [虚假新闻检测数据集](https://blog.csdn.net/Totoro1745/article/details/84678858)
 
 ## papers
