@@ -8,6 +8,7 @@ Some useful resource for NLP
 + [stanfordnlp](https://stanfordnlp.github.io/stanfordnlp/)     Python NLP Library for Many Human Languages
 + 结巴分词
 + [Interactive Attention Visualization](https://github.com/SIDN-IAP/attnvis)
++ [THULAC](https://github.com/thunlp/THULAC)    包括中文分词、词性标注功能。
 + [TextGrapher](https://github.com/liuhuanyong/TextGrapher)     输入一篇文档，形成对文章语义信息的图谱化展示。
 
 ## Pre-train
