@@ -12,6 +12,7 @@ Some useful resource for NLP
 + [TextGrapher](https://github.com/liuhuanyong/TextGrapher)     输入一篇文档，形成对文章语义信息的图谱化展示。
 
 ## Pre-train
++ [transformers](https://github.com/huggingface/transformers)  注意：transformers > 3.1.0 的版本下，在 from_pretrained 函数调用中添加 mirror 选项，如AutoModel.from_pretrained('bert-base-uncased', mirror='tuna')可以加快模型的下载。加上cache_dir="XXX"手动设置缓存地址。
 + [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
 + [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)     Pre-Training with Whole Word Masking for Chinese BERT
 
