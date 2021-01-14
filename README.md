@@ -19,8 +19,8 @@ Some useful resource for NLP
 > 训练模型相关
 
 + [transformers](https://github.com/huggingface/transformers)  
-    + 注意：transformers > 3.1.0 的版本下，在 from_pretrained 函数调用中添加 mirror 选项，如AutoModel.from_pretrained('bert-base-uncased', mirror='tuna')可以加快模型的下载。
-    + 加上cache_dir="XXX"手动设置缓存地址。
+    + 注意： `transformers > 3.1.0` 的版本下，在 `from_pretrained` 函数调用中添加 `mirror` 选项，如 `AutoModel.from_pretrained('bert-base-uncased', mirror='tuna')` 可以加快模型的下载。
+    + 加上 `cache_dir="XXX"` 手动设置缓存地址，如果不设置，默认下载在 `~/.cache/torch` 或者 `C:\Users\XXXX\.cache\torch`，每个文件都有一个json作为标记，告知对应文件的作用。
 + [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
 + [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)     Pre-Training with Whole Word Masking for Chinese BERT
 
