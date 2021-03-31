@@ -2,6 +2,7 @@
 Some useful resource for NLP
 
 > 跟踪自然语言处理（NLP）的进度: https://nlpprogress.com/
+> [NLP 的巨人肩膀](https://zhuanlan.zhihu.com/p/50443871) ：较为详细的讲述了自然语言处理的发展历程
 
 ## Tools
 
@@ -28,6 +29,10 @@ Some useful resource for NLP
 
 + [GLUE](https://gluebenchmark.com/leaderboard)
 
+> 训练技巧
+
++ [深度学习网络调参技巧](https://zhuanlan.zhihu.com/p/24720954)
+
 ## Dataset
 
 + [The Big Bad NLP Database](https://datasets.quantumstat.com/)
@@ -46,7 +51,7 @@ Some useful resource for NLP
 + [Integrated Crisis Early Warning System (ICEWS) Dataverse](https://dataverse.harvard.edu/dataverse/icews)
 + [GDELT](https://www.gdeltproject.org/data.html#rawdatafiles)
 
-## papers
+## papers list
 
 + [NLP-journey](https://github.com/msgi/nlp-journey)
 + [EventExtractionPapers](https://github.com/BaptisteBlouin/EventExtractionPapers)
