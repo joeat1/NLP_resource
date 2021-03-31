@@ -24,6 +24,10 @@ Some useful resource for NLP
 + [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
 + [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)     Pre-Training with Whole Word Masking for Chinese BERT
 
+> 评价榜单
+
++ [GLUE](https://gluebenchmark.com/leaderboard)
+
 ## Dataset
 
 + [The Big Bad NLP Database](https://datasets.quantumstat.com/)
