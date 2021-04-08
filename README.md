@@ -81,7 +81,7 @@
 
 + 
 
-[返回目录 :arrow_heading_up:](#balloon-contents) 
+[返回目录 :arrow_heading_up:](#ballooncontents) 
 
 ##  :cupid: 工具库
 
@@ -131,7 +131,7 @@
 + [TextGrapher](https://github.com/liuhuanyong/TextGrapher) - 输入一篇文档，形成对文章语义信息的图谱化展示。
 + [Scattertext](https://hub.fastgit.org/JasonKessler/scattertext)   在语料库中找到有区别的术语并在交互式HTML散点图中显示它们
 
-[返回目录 :arrow_heading_up:](#balloon-contents) 
+[返回目录 :arrow_heading_up:](#ballooncontents) 
 
 
 
@@ -154,7 +154,7 @@
 + [Integrated Crisis Early Warning System (ICEWS) Dataverse](https://dataverse.harvard.edu/dataverse/icews)
 + [GDELT](https://www.gdeltproject.org/data.html#rawdatafiles)
 
-[返回目录 :arrow_heading_up:](#balloon-contents) 
+[返回目录 :arrow_heading_up:](#ballooncontents) 
 
 
 
@@ -192,7 +192,7 @@
 | [搜狗实验室](http://www.sogou.com/labs/) |      | 提供[预料资源](http://www.sogou.com/labs/resource/list_pingce.php) |
 | [阿里巴巴达摩院语言技术实验室](https://damo.alibaba.com/labs/language-technology) |      |      |
 
-[返回目录 :arrow_heading_up:](#balloon-contents) 
+[返回目录 :arrow_heading_up:](#ballooncontents) 
 
 ## :loudspeaker: 信息资讯
 + **机器学习算法与自然语言处理** 微信公众号和[知乎专栏](https://www.zhihu.com/column/qinlibo-ml) 
@@ -201,7 +201,7 @@
 + [ruder的博客](https://ruder.io/ ) 
 + [52nlp](https://www.52nlp.cn/) 
 
-[返回目录 :arrow_heading_up:](#balloon-contents) 
+[返回目录 :arrow_heading_up:](#ballooncontents) 
 
 ## :notebook: 基础知识/训练
 
@@ -263,7 +263,7 @@
 + 多任务学习 
 + 数据增广
 
-[返回目录 :arrow_heading_up:](#balloon-contents) 
+[返回目录 :arrow_heading_up:](#ballooncontents) 
 
 ##  :white_large_square: ​ TODO
 
