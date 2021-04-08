@@ -1,7 +1,7 @@
 # :tada:NLP_resource :confetti_ball:
 > [自然语言处理怎么最快入门？](https://www.zhihu.com/question/19895141) 
 >
-> 刘知远老师的 [NLP研究入门之道](https://github.com/zibuyu/research_tao) :+1::+1: :+1: 
+> 刘知远老师的 [NLP研究入门之道](https://github.com/zibuyu/research_tao) :+1::+1::+1: 
 
 ### :balloon:Contents
 
@@ -50,7 +50,7 @@
 >
 > 以下只列出常用的模型算法，其他大量的论文和代码请从 [嵌入相关论文和代码](https://github.com/Separius/awesome-sentence-embedding) 中查阅，特别关注那些引用数超过 999+ 的论文。
 
-统计语言模型 A Neural Probabilistic Language Model [`paper`](https://jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) :+1::+1: :+1: 
+统计语言模型 A Neural Probabilistic Language Model [`paper`](https://jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) :+1::+1::+1: 
 
 |Date|Model Name|Paper|                            Codes                             |
 |:---:|:---:|:---:|:---:|
@@ -79,7 +79,6 @@
 + TextRCNN ：Recurrent Convolutional Neural Network for Text Classification
 + HAN ：Hierarchical Attention Networks for Document Classification
 
-+ 
 
 [返回目录 :arrow_heading_up:](#ballooncontents) 
 
@@ -129,7 +128,7 @@
 
 + [Interactive Attention Visualization](https://github.com/SIDN-IAP/attnvis) - 交互式的注意力可视化
 + [TextGrapher](https://github.com/liuhuanyong/TextGrapher) - 输入一篇文档，形成对文章语义信息的图谱化展示。
-+ [Scattertext](https://hub.fastgit.org/JasonKessler/scattertext)   在语料库中找到有区别的术语并在交互式HTML散点图中显示它们
++ [Scattertext](https://hub.fastgit.org/JasonKessler/scattertext)   在语料库中找到有区分类别能力的单词或短语，并在交互式HTML散点图中显示它们
 
 [返回目录 :arrow_heading_up:](#ballooncontents) 
 
