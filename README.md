@@ -121,6 +121,7 @@
 > 深度学习架构
 
 + [Pytorch](https://pytorch.org/)
+  + [PyTorch trick 集锦](https://github.com/Xiaode/pytorch_tricks)
 + [Tensorflow](https://tensorflow.google.cn/)
 + [Paddle](https://github.com/PaddlePaddle/Paddle) 
 
@@ -129,6 +130,7 @@
 + [Interactive Attention Visualization](https://github.com/SIDN-IAP/attnvis) - 交互式的注意力可视化
 + [TextGrapher](https://github.com/liuhuanyong/TextGrapher) - 输入一篇文档，形成对文章语义信息的图谱化展示。
 + [Scattertext](https://hub.fastgit.org/JasonKessler/scattertext)   在语料库中找到有区分类别能力的单词或短语，并在交互式HTML散点图中显示它们
++ [Seaborn](https://github.com/mwaskom/seaborn) 可视化工具，如 **注意力热力图**  
 
 [返回目录 :arrow_heading_up:](#ballooncontents) 
 
@@ -227,7 +229,8 @@
 
 + 长短期记忆网络 LSTM(Long Short-term Memory). [`paper`](http://www.bioinf.jku.at/publications/older/2604.pdf) 
 + 残差网络 Residual Network(Deep Residual Learning for Image Recognition). [`paper`](https://arxiv.org/pdf/1512.03385.pdf) 
-+ DenseNet：Densely Connected Convolutional Networks [`paper`](https://arxiv.org/abs/1608.06993v5) 
++ DenseNet：Densely Connected Convolutional Networks [`paper`](https://arxiv.org/abs/1608.06993v5) [`code`](https://github.com/liuzhuang13/DenseNet)
+  + ResNet 残差网络 + Dense connectivity 密集连接 + Composite function 
 + Dropout(Improving neural networks by preventing co-adaptation of feature detectors). [`paper`](https://arxiv.org/pdf/1207.0580.pdf)
 + Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. [`paper`](https://arxiv.org/pdf/1502.03167.pdf) 
 + 优化算法综述：An overview of gradient descent optimization algorithms [`paper`](https://arxiv.org/abs/1609.04747.pdf) 
@@ -241,6 +244,7 @@
 + 放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较 [`url`](https://zhuanlan.zhihu.com/p/54743941)
   + RNN 可以接纳不定长输入的由前向后进行信息线性传导，包含了位置信息编码
   + CNN 捕获到的是单词的 k-gram 片段信息，其中 k 表示滑动窗口大小
+  + 把 Transformer 中的 self attention 模块用双向 RNN 或者 CNN 替换掉，可以改善原始 RNN/CNN 的效果
 + RNN vs LSTM vs GRU -- 该选哪个？[`url`](https://zhuanlan.zhihu.com/p/55386469) 
 + 难以置信！LSTM和GRU的解析从未如此清晰（动图+视频）。[`url`](https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/82922386) 
 
